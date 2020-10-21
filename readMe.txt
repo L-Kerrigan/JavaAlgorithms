@@ -4,8 +4,6 @@ This repository contains the coursework for module COMP20290 Algorithms
 including a number of algorithms written in Java 13 ranging from multiplying to encoding 
 and more.
 
-Graphs of results of timing tests take the average of three test runs and use that data.
-
 ## Contents
 
 | Practical number                    | Topic covered              |
